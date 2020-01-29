@@ -1,4 +1,4 @@
-# code RBSUTV
+# code of RBSUTV
 ********************************************************************************
  Reweighted blocks sparsity regularization for remote sensing images destriping
 ********************************************************************************
